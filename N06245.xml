@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007920_0000_102E015CB949F078"/>
-            <pb facs="tcp:007920_0001_102E015EF0550C00"/>
+            <pb facs="unknown:007920_0000_102E015CB949F078"/>
+            <pb facs="unknown:007920_0001_102E015EF0550C00"/>
             <p>MINUTES OF CONFERENCES, HELD WITH THE <hi>INDIANS,</hi> At HARRIS'S FERRY, and at LANCASTER, In <hi>March, April,</hi> and <hi>May,</hi> 1757.</p>
             <p>
                <hi>PHILADELPHIA:</hi> Printed and Sold by B. FRANKLIN, and D. HALL, at the <hi>New-Printing-Office,</hi> near the Market. MDCCLVII.</p>
@@ -121,7 +121,7 @@
       </front>
       <body>
          <div type="text">
-            <pb n="3" facs="tcp:007920_0002_102E0161348C9748"/>
+            <pb n="3" facs="unknown:007920_0002_102E0161348C9748"/>
             <head>MINUTES OF CONFERENCES, &amp;c.</head>
             <div type="days_proceedings">
                <head>
@@ -143,7 +143,7 @@
                <p>I am informed, by a <hi>Six Nation Indian,</hi> one of Reputation amongſt them, that reſided at <hi>Diahago,</hi> that as ſoon as <hi>Joſeph Peepy</hi> and <hi>Lewis Montour</hi> had delivered their Meſſage there, the Council, that Night, diſpatched two Men to the <hi>Ohio,</hi> to inform the <hi>Delawares</hi> and <hi>Shawaneſe,</hi> living there, of this Meeting, deſiring ſome of them to come to it; but if none of them ſhould chuſe to come, theſe Meſſengers were then to inſiſt that none of the <hi>Dela<g ref="char:EOLhyphen"/>wares</hi> and <hi>Shawaneſe,</hi> living on the <hi>Ohio,</hi> ſhould come to War againſt the <hi>Engliſh</hi> till this Meeting was over, and they have Time, after returning Home, to let them know how it ended:</p>
             </div>
             <div type="days_proceedings">
-               <pb n="4" facs="tcp:007920_0003_102E0162DBA2A560"/>
+               <pb n="4" facs="unknown:007920_0003_102E0162DBA2A560"/>
                <head>
                   <hi>At a MEETING of the</hi> Six Nations <hi>and their Allies, and</hi> George Crog<g ref="char:EOLhyphen"/>han, <hi>
                      <abbr>Eſq</abbr> Deputy Agent to the Honourable</hi> Sir WILLIAM JOHNSON, <hi>Baro<g ref="char:EOLhyphen"/>net, His Majeſty's ſole Agent and Superintendent of the Affairs of the</hi> Six Nations, <hi>their Allies and Dependents, and by his ſpecial Order, at</hi> John Harris's, <hi>the Firſt Day of</hi> April, <hi>1757.</hi>
@@ -303,7 +303,7 @@
                   <hi>Gave a Belt.</hi>
                </p>
                <p>
-                  <pb n="5" facs="tcp:007920_0004_102E0166056DADD0"/>
+                  <pb n="5" facs="unknown:007920_0004_102E0166056DADD0"/>
                   <hi>Brethren,</hi>
                </p>
                <p>As we have now gone through the antient Cuſtoms uſed by our Forefathers upon their Meeting, I with this Belt of Wampum heal your Hearts, and free your Minds from Trou<g ref="char:EOLhyphen"/>ble, that we may meet each other in Council, and brighten the Chain of Friendſhip.</p>
@@ -382,7 +382,7 @@
                   <hi>Gave a Belt.</hi>
                </p>
                <p>
-                  <pb n="6" facs="tcp:007920_0005_102E0167A9541018"/>
+                  <pb n="6" facs="unknown:007920_0005_102E0167A9541018"/>
 This Evening I had a Meeting of the Sachems, and propoſed the Going to <hi>Philadelphia,</hi> to hold the Treaty; but I could prevail on none of them, except the <hi>Mohawks,</hi> to go there; the reſt were afraid of Sickneſs.</p>
                <p>When I found they were not to be prevailed on to go there, I called a Council, and, with a Belt of Wampum, I removed the Council Fire to <hi>Lancaſter;</hi> to which Place they all agreed to go, and wait the Arrival of <hi>Teedyuſcung,</hi> with the <hi>Senecas, Delawares,</hi> and <hi>Shawaneſe.</hi>
                </p>
@@ -444,7 +444,7 @@ This Evening I had a Meeting of the Sachems, and propoſed the Going to <hi>Phil
                   <hi>Gave a Belt.</hi>
                </p>
                <p>
-                  <pb n="7" facs="tcp:007920_0006_102E016A3A801EB8"/>
+                  <pb n="7" facs="unknown:007920_0006_102E016A3A801EB8"/>
                   <hi>Brethren,</hi>
                </p>
                <p>I return you Thanks for diſperſing the dark Clouds from over our Heads, for healing our Hearts, and freeing our Minds from Trouble, and for brightening the Chain of Friendſhip made by our Forefathers.</p>
@@ -482,7 +482,7 @@ This Evening I had a Meeting of the Sachems, and propoſed the Going to <hi>Phil
                <p>
                   <hi>May</hi> the 5th, <hi>P. M.</hi> Captain <hi>Trent</hi> returned from <hi>Bethlehem,</hi> with the Deputies that went from here to meet the <hi>Delawares</hi> and <hi>Shawaneſe,</hi> and brought with them four <hi>Delaware</hi> Men, and one Woman.</p>
                <p>
-                  <pb n="8" facs="tcp:007920_0007_102E016D1ED5B510"/>
+                  <pb n="8" facs="unknown:007920_0007_102E016D1ED5B510"/>
 About two Hours afterwards, Captain M'Kee returned from <hi>Philadelphia,</hi> with the Depu<g ref="char:EOLhyphen"/>ties who were ſent down to the Governor to invite him here to hold the Conference.</p>
                <p>
                   <hi>May</hi> the 6th, I called a Meeting of the Chiefs of the ſeveral Tribes, when <hi>William Logan,</hi> 
@@ -510,7 +510,7 @@ About two Hours afterwards, Captain M'Kee returned from <hi>Philadelphia,</hi> w
                   <hi>May</hi> the 9th, three of the Meſſengers I ſent to the <hi>Ohio</hi> returned, and make the following Report.</p>
                <p>That on their Arrival at <hi>Venango</hi> (an old <hi>Indian</hi> Town) on <hi>Ohio,</hi> they found ſeveral of the <hi>Delawares</hi> there, one, named <hi>Caſtalago,</hi> their Chief. They immediately called a Meet<g ref="char:EOLhyphen"/>ing, and delivered the Speeches ſent by them, which were very well received by the <hi>Dela<g ref="char:EOLhyphen"/>wares;</hi> who told them, in Anſwer, That they would accept of the Invitation, and come down with them; but that they muſt firſt go and conſult their Uncles the <hi>Senecas,</hi> who lived further up the River. The next Day they ſet off to a little Town further up the River <hi>Ohio,</hi> where they ſummoned a Number of the <hi>Delawares</hi> and <hi>Senecas</hi> together. After repeating the Meſſages over, one of the <hi>Senecas,</hi> named <hi>Gariſtagee,</hi> one of the Chiefs, ſaid to the <hi>De<g ref="char:EOLhyphen"/>lawares;</hi> Nephews, You muſt not accept of that Call, for the Belts which are ſent you are not proper Belts on this Occaſion. I know <hi>George Croghan</hi> very well, and would be very glad to ſee him; and if he will ſend a proper Belt, with Men wrought in it, for the ſeveral Tribes he wants to meet with (himſelf taking us by the Hand) made of old Council Wam<g ref="char:EOLhyphen"/>pum, which is the Cuſtom of the <hi>Six Nations</hi> on theſe Occaſions, I will go down with you and ſee him: To which the <hi>Delawares</hi> agreed, and then returned the Belts.</p>
                <p>They ſay that one of the Meſſengers proceeded further, to where the <hi>Delawares,</hi> that lived formerly at <hi>Kittanning,</hi> were now ſettled, on <hi>Beaver-Creek,</hi> with a View of finding out the Diſ<g ref="char:EOLhyphen"/>poſitions
-<pb n="9" facs="tcp:007920_0008_102E016FA6546890"/>of them; and they expect he will be ſoon down, if not killed. Theſe Meſſengers ſay, that there were but fifteen <hi>Frenchmen</hi> at <hi>Venango,</hi> and that the Fort there is very weak; and that the <hi>Indians</hi> in them Parts are very much diſtreſſed for Proviſions.</p>
+<pb n="9" facs="unknown:007920_0008_102E016FA6546890"/>of them; and they expect he will be ſoon down, if not killed. Theſe Meſſengers ſay, that there were but fifteen <hi>Frenchmen</hi> at <hi>Venango,</hi> and that the Fort there is very weak; and that the <hi>Indians</hi> in them Parts are very much diſtreſſed for Proviſions.</p>
                <p>They ſay that the <hi>Ohio Indians</hi> are much afraid of the Southern <hi>Indians,</hi> having been ſtruck three Times by them this Spring, twice near <hi>Fort Du Queſne,</hi> and once at the <hi>Logs-Town;</hi> and that the <hi>Indians</hi> are moving faſt up the <hi>Ohio</hi> towards the <hi>Senecas.</hi>
                </p>
                <p>They heard from the <hi>Indians</hi> there, that the <hi>French</hi> were defeated at <hi>Fort William-Henry,</hi> and that there was another Party defeated by Sir <hi>William Johnſon,</hi> at the <hi>German-Flats;</hi> and the <hi>French</hi> were determined yet to make another Trial againſt the <hi>Engliſh,</hi> but that they could not tell where they intended to ſtrike next.</p>
@@ -537,7 +537,7 @@ About two Hours afterwards, Captain M'Kee returned from <hi>Philadelphia,</hi> w
                <p>
                   <hi>Lancaſter, Monday, May</hi> the 9th, This Evening the Honourable WILLIAM DENNY, <abbr>Eſq</abbr> Governor of this Province, attended by a Number of his Council, a Number of the Houſe of Repreſentatives, the Commiſſioners for the Province, with a great Number of other Gen<g ref="char:EOLhyphen"/>tlemen, arrived here.</p>
                <p>
-                  <pb n="10" facs="tcp:007920_0009_102F6B93EBA4A350"/>
+                  <pb n="10" facs="unknown:007920_0009_102F6B93EBA4A350"/>
                   <hi>May</hi> the 10th, The Sachems of the ſeveral Tribes, with a Number of their chief Warriors, waited on the Governor at Mr. <hi>George Gibſon</hi>'s, in <hi>Lancaſter;</hi> when the Governor, with the Gentlemen that attended him, took them by the Hands, bid them welcome, and his Honour made them the following Speech.</p>
                <p>
                   <hi>Brethren,</hi>
@@ -598,7 +598,7 @@ About two Hours afterwards, Captain M'Kee returned from <hi>Philadelphia,</hi> w
                   <hi>Gave a Belt of nine Rows.</hi>
                </p>
                <p>Being very deſirous that all Cauſes of Diſcontent ſhould be removed, I propoſed that the Matter ſhould then be finally accommodated; but <hi>Teedyuſcung</hi> declaring, that he was not ſuf<g ref="char:EOLhyphen"/>ficienty
-<pb n="11" facs="tcp:007920_0010_102E0172EAD41C80"/>impowered to finiſh that Buſineſs, declined it, and deſired another Meeting this Spring, when he engaged to bring with him thoſe <hi>Indians</hi> to whom the ſaid Lands belonged, at which Time this Complaint might be fully heard, and amicably adjuſted.</p>
+<pb n="11" facs="unknown:007920_0010_102E0172EAD41C80"/>impowered to finiſh that Buſineſs, declined it, and deſired another Meeting this Spring, when he engaged to bring with him thoſe <hi>Indians</hi> to whom the ſaid Lands belonged, at which Time this Complaint might be fully heard, and amicably adjuſted.</p>
                <p>
                   <hi>Gave a Belt of nine Rows.</hi>
                </p>
@@ -655,7 +655,7 @@ About two Hours afterwards, Captain M'Kee returned from <hi>Philadelphia,</hi> w
                   <hi>Brother,</hi>
                </p>
                <p>You deſired our Advice in Regard to the Differences that aroſe between you and our Ne<g ref="char:EOLhyphen"/>phews the <hi>Delawares,</hi> and Brothers the <hi>Shawaneſe;</hi> and you deſired us to give you our Opi<g ref="char:EOLhyphen"/>nion
-<pb n="12" facs="tcp:007920_0011_102E01752C020978"/>which would be the beſt Method now to purſue to bring about an Accommodation: We have conſidered what you required of us. Brothers, We are diſappointed, by the Heads of our Relations not coming to this Meeting; it was on their Account that we met our Brothers at this Time.—If they had come here at this Time, we ſhould have ſat ſtill, and heard the Complaints on each Side, then we ſhould have been the better able to judge who was in the Fault, and would have given our Opinion freely: However, as Things now ſtand, we muſt inform you, our Brothers, That in the Time of our Great-Grand-Fathers, and when the <hi>Six Nations</hi> firſt united, it was agreed that the <hi>Seneca</hi> Country ſhould be the Door to the <hi>Six Nations,</hi> into which all Meſſengers ſhould paſs in Time of War, and there deliver their Meſſages, and the <hi>Senecas,</hi> our Brothers, were to forward the Meſſages to all the <hi>United Nations.</hi>
+<pb n="12" facs="unknown:007920_0011_102E01752C020978"/>which would be the beſt Method now to purſue to bring about an Accommodation: We have conſidered what you required of us. Brothers, We are diſappointed, by the Heads of our Relations not coming to this Meeting; it was on their Account that we met our Brothers at this Time.—If they had come here at this Time, we ſhould have ſat ſtill, and heard the Complaints on each Side, then we ſhould have been the better able to judge who was in the Fault, and would have given our Opinion freely: However, as Things now ſtand, we muſt inform you, our Brothers, That in the Time of our Great-Grand-Fathers, and when the <hi>Six Nations</hi> firſt united, it was agreed that the <hi>Seneca</hi> Country ſhould be the Door to the <hi>Six Nations,</hi> into which all Meſſengers ſhould paſs in Time of War, and there deliver their Meſſages, and the <hi>Senecas,</hi> our Brothers, were to forward the Meſſages to all the <hi>United Nations.</hi>
                </p>
                <p>But in the Differences ſubſiſting at preſent between you and our Nephews and Brothers, we have heard nothing from that Quarter, though we are ſenſible that Meſſengers arrived there upon this Affair. And as we, the <hi>Mohawks,</hi> are a Door to the Eaſtward of the <hi>Six Nation</hi> Country, eſtabliſhed at the ſame time with that to the Weſtward, finding that they neglected their Offices, we took the Affair in Hand, and ſent Meſſengers to <hi>Otſaningo,</hi> and there a Council was held, and the Deputies we ſent charged them to get ſober, as we looked upon their Actions as the Actions of drunken Men: This was the Subſtance of the Speeches ſent to them.—They returned for anſwer, That they looked upon themſelves as Men, and would acknowledge no Superiority that any other Nation had over them.—We are Men, and are determined not to be ruled any longer by you as Women; and we are determined to cut off all the <hi>Engliſh,</hi> except thoſe that may make their Eſcape from us in Ships; ſo ſay no more to us on that Head, leſt we cut off your private Parts, and make Women of you, as you have done of us. In the mean time, though they did not any longer acknowledge the <hi>Six Nations</hi> as their Uncles, yet they would liſten to what <hi>Anugh Kary Tany Tionen Holo<g ref="char:EOLhyphen"/>rowy</hi> ſhould ſay to them.—Him only they acknowledged for their Uncle.—Notwithſtanding this raſh Speech, they afterwards, at the Inſtance of Sir <hi>William Johnſon,</hi> agreed to a Ceſ<g ref="char:EOLhyphen"/>ſation of Arms, to come to an Interview with him and their Brother <hi>Onas.</hi>
                </p>
@@ -696,7 +696,7 @@ About two Hours afterwards, Captain M'Kee returned from <hi>Philadelphia,</hi> w
                <p>I HAVE duly conſidered what you were ſo kind to ſay to me the other Day, in Anſwer to my peech to you; and I return you my hearty Thanks for your Information and Advice as to what you judge proper to be done for the Reſtoration of Peace between us, your Couſins the <hi>Delawares,</hi> and Brethren the <hi>Shawaneſe.</hi>
                </p>
                <p>
-                  <pb n="13" facs="tcp:007920_0012_102E01783A533E70"/>
+                  <pb n="13" facs="unknown:007920_0012_102E01783A533E70"/>
 We look upon your informing us of that cloſe Connection, at preſent ſubſiſting between your Couſins and the <hi>Seneca</hi> Nations, of which we were till now ignorant, as the greateſt Mark of your Regard and Eſteem for us.—Brothers, Your Advice is good and whole<g ref="char:EOLhyphen"/>ſome, and I ſhall, in Purſuance of it, ſend an Invitation to <hi>Teedyuſcung</hi> to come down, and leave it entirely to his Choice to bring with him ſuch and ſo many of his Uncles, and others his Friends, as he thinks proper, and will then cautiouſly and carefully purſue your Advice in treating with them.</p>
                <p>In the mean time, if, on your Return, you ſhould meet with <hi>Teedyuſcung,</hi> I deſire you will let him know what has been done between us at this Meeting, and adviſe him of the Continuance of the good Diſpoſition of the People of this Province towards him and his People; and that we are ready to fulfil the Engagements we entered into with him at <hi>Eaſton,</hi> and ſhall be glad to ſee him and his Friends, as ſoon as they can conveniently come.</p>
                <p>
@@ -751,7 +751,7 @@ We look upon your informing us of that cloſe Connection, at preſent ſubſiſt
                   <hi>Sachems and Warriors of the</hi> Six United Nations, <hi>our Friends and Brethren,</hi>
                </p>
                <p>When <hi>Teedyuſcung,</hi> at the Treaty held at <hi>Eaſton,</hi> complained that the <hi>Indians</hi> had been de<g ref="char:EOLhyphen"/>frauded of ſome of their Lands, this Government agreed to meet him upon his own Appoint<g ref="char:EOLhyphen"/>ment this Spring; to which Meeting you were invited, that you might ſee and hear every
-<pb n="14" facs="tcp:007920_0013_102E017AAD994760"/>Thing to be then tranſacted with your Nephews the <hi>Delawares,</hi> and Brothers the <hi>Shawaneſe.</hi> You are now here on that Invitation, and are Witneſſes how ready this Government is to re<g ref="char:EOLhyphen"/>dreſs any Injuries or Injuſtice done to the <hi>Indians</hi> whenever they can make that appear, and that they, your Brethren of <hi>Pennſylvania,</hi> are now attending for that Purpoſe, and you muſt be convinced, from their Conduct towards you, that they are not come empty handed.</p>
+<pb n="14" facs="unknown:007920_0013_102E017AAD994760"/>Thing to be then tranſacted with your Nephews the <hi>Delawares,</hi> and Brothers the <hi>Shawaneſe.</hi> You are now here on that Invitation, and are Witneſſes how ready this Government is to re<g ref="char:EOLhyphen"/>dreſs any Injuries or Injuſtice done to the <hi>Indians</hi> whenever they can make that appear, and that they, your Brethren of <hi>Pennſylvania,</hi> are now attending for that Purpoſe, and you muſt be convinced, from their Conduct towards you, that they are not come empty handed.</p>
                <p>
                   <hi>Gave a Belt.</hi>
                </p>
@@ -790,7 +790,7 @@ We look upon your informing us of that cloſe Connection, at preſent ſubſiſt
                <p>
                   <hi>May 18, 1757.</hi> This Day four Perſons that were killed on the Frontiers, in the Settlement of <hi>Swetara,</hi> by the Enemy <hi>Indians,</hi> were brought to this Town.—In the Afternoon the chief <hi>Sachems,</hi> with a Number of their Warriors, called a Meeting in the <hi>Indian</hi> Camp, and ſpoke to us as follows.</p>
                <p>
-                  <pb n="15" facs="tcp:007920_0014_102E017C51E3D198"/>
+                  <pb n="15" facs="unknown:007920_0014_102E017C51E3D198"/>
                   <hi>Brethren,</hi>
                </p>
                <p>We have called this Meeting with Tears in our Eyes, on Account of ſeeing ſo many of our Brethren killed by the evil Spirit; and we take this Opportunity, as we have a good deal of Buſineſs yet to do, to wipe the Tears from your Eyes, ſo that To-morrow, when we meet in Council, we may ſee each other with the ſame Good-will we have hitherto done.</p>
@@ -838,7 +838,7 @@ We look upon your informing us of that cloſe Connection, at preſent ſubſiſt
                <p>EACH of you made us a Speech Yeſterday on the ſame Subject; both which Speeches I now propoſe to anſwer at once, and then ſpoke as follows.</p>
                <p>Brothers,</p>
                <p>Some Years ago, in the <hi>Jerſeys,</hi> one of the Head Men of the <hi>Delawares</hi> had been out a Hunting.—On his Return, he called to ſee a Gentleman, a great Friend of his, one of your People, who he found in his Field: When the Gentleman ſaw him he came to meet him. It was rainy Weather, and the <hi>Delaware</hi> Chief had his Gun under his Arm.—They met at a Fence, and as they reached out their Hands to each other, the <hi>Delaware</hi>'s Gun went off by Accident, and ſhot him dead. He was very much grieved at the Accident, and went to the Houſe, and told the Gentleman's Wife what had happened, and ſaid he was willing to die, and did not chooſe to live after his Friend. She immediately ſent for a Number of the Inha<g ref="char:EOLhyphen"/>bitants.—When they were gathered, ſome ſaid it was an Accident, and could not be helped; but the greateſt Number were for hanging him, and he was taken by the Sheriff, and carried to <hi>Amboy,</hi> where he was tried, and hanged.—There was another Misfortune that happen<g ref="char:EOLhyphen"/>ed.—A Party of <hi>Shawaneſe,</hi> who were going to War againſt their Enemies, in their Way through <hi>Carolina,</hi> called at a Houſe, not ſuſpecting any Harm, as they were amongſt their Friends, a Number of the Inhabitants roſe and took them Priſoners, on Account of ſome Miſchief that was done there about that Time, ſuſpecting them to be the People that had done the Miſchief, and carried them to <hi>Charles-Town,</hi> and put them in Priſon, where the chief Man, called <hi>The Pride,</hi> died.—The Relations of theſe People were much exaſperated againſt you our Brethren, the <hi>Engliſh,</hi> on Account of the ill Treatment you gave their Friends, and have been continually ſpiriting up their Nations to take Revenge—Brothers, you deſired us to open our Hearts, and inform you of every Thing we knew that might give
-<pb n="16" facs="tcp:007920_0015_102E017DEBC57D78"/>Riſe to the Quarrel between you and our Nephews and Brothers.—We muſt now inform you, that in former Times our Forefathers conquered the <hi>Delawares,</hi> and put Petticoats on them.—A long Time after that they lived among you our Brothers, but upon ſome Diffe<g ref="char:EOLhyphen"/>rence between you and them, we thought proper to remove them, giving them Lands to plant and hunt on at <hi>Wyoming</hi> and <hi>Juniata,</hi> on <hi>Saſquehannah.</hi>—But you, covetous of Land, made Plantations there, and ſpoiled their hunting Grounds; they then complained to us, and we looked over thoſe Lands, and found their Complaints to be true. At this Time they carried on a Correſpondence with the <hi>French,</hi> by which Means the <hi>French</hi> became acquaint<g ref="char:EOLhyphen"/>ed with all the Cauſes of Complaint they had againſt you; and as your People were daily en<g ref="char:EOLhyphen"/>creaſing their Settlements, by this Means you drove them back into the Arms of the <hi>French,</hi> and they took the Advantage of ſpiriting them up againſt you, by telling them; "Children, you ſee, and we have often told you, how the <hi>Engliſh,</hi> your Brethren, would ſerve you; they plant all the Country, and drive you back; ſo that in a little Time you will have no Land: It is not ſo with us; though we build Trading-Houſes on your Land, we do not plant it; we have our Proviſions from over the great Water."—We have opened our Hearts, and told you what Complaints we have heard that they had againſt you; and our Advice to you is, that you ſend for the <hi>Senecas</hi> and them; treat them kindly, and rather give them ſome Part of their Fields back again than differ with them.—It is in your Power to ſettle all the Differences with them if you pleaſe.</p>
+<pb n="16" facs="unknown:007920_0015_102E017DEBC57D78"/>Riſe to the Quarrel between you and our Nephews and Brothers.—We muſt now inform you, that in former Times our Forefathers conquered the <hi>Delawares,</hi> and put Petticoats on them.—A long Time after that they lived among you our Brothers, but upon ſome Diffe<g ref="char:EOLhyphen"/>rence between you and them, we thought proper to remove them, giving them Lands to plant and hunt on at <hi>Wyoming</hi> and <hi>Juniata,</hi> on <hi>Saſquehannah.</hi>—But you, covetous of Land, made Plantations there, and ſpoiled their hunting Grounds; they then complained to us, and we looked over thoſe Lands, and found their Complaints to be true. At this Time they carried on a Correſpondence with the <hi>French,</hi> by which Means the <hi>French</hi> became acquaint<g ref="char:EOLhyphen"/>ed with all the Cauſes of Complaint they had againſt you; and as your People were daily en<g ref="char:EOLhyphen"/>creaſing their Settlements, by this Means you drove them back into the Arms of the <hi>French,</hi> and they took the Advantage of ſpiriting them up againſt you, by telling them; "Children, you ſee, and we have often told you, how the <hi>Engliſh,</hi> your Brethren, would ſerve you; they plant all the Country, and drive you back; ſo that in a little Time you will have no Land: It is not ſo with us; though we build Trading-Houſes on your Land, we do not plant it; we have our Proviſions from over the great Water."—We have opened our Hearts, and told you what Complaints we have heard that they had againſt you; and our Advice to you is, that you ſend for the <hi>Senecas</hi> and them; treat them kindly, and rather give them ſome Part of their Fields back again than differ with them.—It is in your Power to ſettle all the Differences with them if you pleaſe.</p>
                <p>
                   <hi>Gave two Belts, one for Sir</hi> William Johnſon, <hi>and one for the Governor</hi>
                </p>
@@ -872,7 +872,7 @@ We look upon your informing us of that cloſe Connection, at preſent ſubſiſt
                   <hi>Gave a Belt.</hi>
                </p>
                <p>
-                  <pb n="17" facs="tcp:007920_0016_102E0180D2AF7280"/>
+                  <pb n="17" facs="unknown:007920_0016_102E0180D2AF7280"/>
                   <hi>Brethren,</hi>
                </p>
                <p>It is true, we were preſent when the <hi>Delawares</hi> and <hi>Shawaneſe</hi> brightened the Chain of Friendſhip with Sir <hi>William Johnſon,</hi> and promiſed to turn the Edge of their Hatchet againſt the <hi>French.</hi>—But you muſt know that laſt Fall, tho' they went out to War with us, they always turned back, and did not perform what they had promiſed; ſo that we cannot ac<g ref="char:EOLhyphen"/>count for what they will do now.—But for our Parts, the <hi>Six Nations,</hi> we have been engaged in the War with you, and are always ready, when we ſee an <hi>Engliſh</hi> Flag, to join our Bro<g ref="char:EOLhyphen"/>thers, and to go with them, and ſhare the ſame Fate.</p>
@@ -930,7 +930,7 @@ We look upon your informing us of that cloſe Connection, at preſent ſubſiſt
                   <hi>Gave a Belt.</hi>
                </p>
                <p>
-                  <pb n="18" facs="tcp:007920_0017_102E01826F0F39D8"/>
+                  <pb n="18" facs="unknown:007920_0017_102E01826F0F39D8"/>
                   <hi>Brethren,</hi>
                </p>
                <p>I have ordered the Preſents provided by the good People of this Province to be carried to the <hi>Indian</hi> Camp early in the Morning; and inform you, that a Part of theſe Preſents is given by thoſe who are the Deſcendents of the Inhabitants that firſt came over to this Country with your old Friend <hi>William Penn,</hi> as a particular Teſtimony of their Regard and Affection for the <hi>Indians.</hi>
@@ -970,7 +970,7 @@ We look upon your informing us of that cloſe Connection, at preſent ſubſiſt
                   <hi>Brother,</hi>
                </p>
                <p>We have conſidered every Part of your Meſſage to <hi>Teedyuſcung,</hi> and we approve much of it, and think it will be acceptable to our Nephews and Brothers; and we likewiſe approve of
-<pb n="19" facs="tcp:007920_0018_102E0185AFB20D70"/>our Brother <hi>Onas</hi>'s ſending a Preſent to our Brothers the <hi>Cherekees.</hi>—You, our Brothers the <hi>Engliſh,</hi> took ſome Pains to bring about a Peace between them and us, and we embrace this Opportunity of brightening the Chain of Friendſhip between us in your Preſence.—We have appointed three Men to go with you to ſee them, and hope you will provide for them on the Road.</p>
+<pb n="19" facs="unknown:007920_0018_102E0185AFB20D70"/>our Brother <hi>Onas</hi>'s ſending a Preſent to our Brothers the <hi>Cherekees.</hi>—You, our Brothers the <hi>Engliſh,</hi> took ſome Pains to bring about a Peace between them and us, and we embrace this Opportunity of brightening the Chain of Friendſhip between us in your Preſence.—We have appointed three Men to go with you to ſee them, and hope you will provide for them on the Road.</p>
                <p>
                   <hi>Gave a String.</hi>
                </p>
@@ -1008,7 +1008,7 @@ We look upon your informing us of that cloſe Connection, at preſent ſubſiſt
                   <hi>Gave a Belt.</hi>
                </p>
                <p>
-                  <pb n="20" facs="tcp:007920_0019_102E018807E56C60"/>
+                  <pb n="20" facs="unknown:007920_0019_102E018807E56C60"/>
 After this Speech was delivered to the Meſſengers, the Sachems of the ſeveral Tribes made the following Speech.</p>
                <p>
                   <hi>Brother,</hi>
@@ -1043,7 +1043,7 @@ After this Speech was delivered to the Meſſengers, the Sachems of the ſeveral
             <p>
                <hi>Brother</hi> Onas,</p>
             <p>We thank you very kindly for the early Steps you made in calling your old and wiſe Men together to conſult with them. It was a very prudent and good Advice they gave you to be<g ref="char:EOLhyphen"/>come Mediator betwixt us your Brethren, and the <hi>Virginians</hi> your Neighbours. We thank them for ſuch good Advice: And we aſſure you, we will accordingly come to an amicable Accommodation with the Governor of <hi>Virginia,</hi> if he will come to reaſonable Terms. And if a War ſhould break out betwixt us and him, you will be convinced of his being the Au<g ref="char:EOLhyphen"/>thor of it: For when in former Times we received a deadly Blow, we never returned it, if it was ever ſo dangerous; we always judged it to be given by diſorderly People, and we uſed always peaceable Means to make it up; but when we received the ſecond Blow, we judged that War was intended againſt us, and then we roſe and knocked down our Enemies with one Blow, and we are ſtill able to do the ſame, but we leave now our Caſe to you. We have ordered our Warriors, with the ſtrongeſt Words, to ſit down, and not revenge them<g ref="char:EOLhyphen"/>ſelves: Therefore, Brother <hi>Onas,</hi> go on with Courage in your Mediation; we aſſure you we will not violate or do any Thing contrary to your Mediation. We deſire you, and the old
-<pb n="21" facs="tcp:007920_0020_102E018A83EB47D8"/>and wiſe Men of <hi>Pennſylvania,</hi> not to believe any Thing to the contrary, let it come from whom it will, till you receive Meſſages from us: We will do the ſame on our Side. In Confirmation of what we ſay, we lay down this Belt of Wampum before you.</p>
+<pb n="21" facs="unknown:007920_0020_102E018A83EB47D8"/>and wiſe Men of <hi>Pennſylvania,</hi> not to believe any Thing to the contrary, let it come from whom it will, till you receive Meſſages from us: We will do the ſame on our Side. In Confirmation of what we ſay, we lay down this Belt of Wampum before you.</p>
             <p>
                <hi>Then the Speech was directed to the Governor of</hi> Maryland.</p>
             <p>
@@ -1087,7 +1087,7 @@ After this Speech was delivered to the Meſſengers, the Sachems of the ſeveral
             <p>
                <hi>Brethren, the</hi> Shawaneſe,</p>
             <p>You believe too many Lies, and are too forward in Action. You ſhall not pretend to re<g ref="char:EOLhyphen"/>venge our People that have been killed in <hi>Virginia:</hi> We are the Chief of all the <hi>Indians;</hi> let
-<pb n="22" facs="tcp:007920_0021_102E018C1EDAAE80"/>your Ears and Eyes be open towards us; and order your Warriors to ſtay at Home as we did ours.</p>
+<pb n="22" facs="unknown:007920_0021_102E018C1EDAAE80"/>your Ears and Eyes be open towards us; and order your Warriors to ſtay at Home as we did ours.</p>
             <p>
                <hi>Brother</hi> Onas,</p>
             <p>Your Back Inhabitants are People given to Lies, and raiſing of falſe Stories; ſtop up their Mouths; you can do it with one Word; let no falſe Stories be told; it is dangerours to the Chain of Friendſhip.</p>
